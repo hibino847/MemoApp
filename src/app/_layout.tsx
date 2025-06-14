@@ -13,7 +13,6 @@ const Layout = (): JSX.Element => {
             fontWeight: 'bold'
         },
         headerTitleAlign: 'center'
-
     }}/>
 }
 
